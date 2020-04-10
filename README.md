@@ -21,4 +21,4 @@ Chess game I coded in python using pygame
 ## Features to be added 
 * En Passant special move.  
 * An AI to play against.  
-* Restricting Castling for interupted path due to check.  
+* Restricting Castling for interrupted path due to check.  
